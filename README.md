@@ -243,7 +243,7 @@
 ```
 
 ### 六、我的评论
-![](imgs/my_comment1)
+![](imgs/my_comment1.png)
 
 ```lua
 接口1：我的评论列表
