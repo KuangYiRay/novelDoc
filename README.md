@@ -562,9 +562,9 @@
 }
 返回值{
 		str:""，
-		imgPaht = ""，
+		imgPath = ""，
 		str:""，
-		imgPaht = ""，
+		imgPath = ""，
 		...
 
 }
